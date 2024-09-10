@@ -2,12 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package spc.edu;
+package bai5;
 
 /**
  *
  * @author Administrator
  */
-public class bai1_helloworld {
-   pub
+public class bai5_nhaphovaten {
+    public static void main(String[] args) {
+        System.out.println("nhap ho va ten");
+        
+    }
 }
